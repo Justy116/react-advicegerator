@@ -1,0 +1,21 @@
+.container__card {
+    margin: 30% auto 0 auto;
+    padding: 36px;
+    width: 500px;
+    background-color: #313a48;
+    border-radius: 16px;
+    text-align: center;
+    box-shadow: 2px 2px 20px 2px;
+}
+
+.advice {
+    color: aquamarine;
+}
+
+.text {
+    color: white;
+}
+
+.img-divider {
+    padding: 20px;
+}
